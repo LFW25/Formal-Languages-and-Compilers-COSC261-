@@ -1,0 +1,1 @@
+syntax error: token in ['ID', 'IF', 'READ', 'WHILE', 'WRITE'] expected but 'END' found

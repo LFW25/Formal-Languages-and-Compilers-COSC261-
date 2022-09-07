@@ -1,0 +1,12 @@
+Statements
+    Assign
+        a
+        8
+    If
+        >
+            a
+            7
+        Statements
+            Assign
+                a
+                2
